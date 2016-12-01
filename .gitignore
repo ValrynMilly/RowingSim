@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/windows,unrealengine
 
@@ -21,6 +22,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+=======
+# Created by https://www.gitignore.io/api/unrealengine
+>>>>>>> refs/remotes/origin/master
 
 ### UnrealEngine ###
 # Visual Studio 2015 user specific files
@@ -87,4 +91,8 @@ Saved/*
 Intermediate/*
 
 # Cache files for the editor to use
+<<<<<<< HEAD
 DerivedDataCache/*
+=======
+DerivedDataCache/*
+>>>>>>> refs/remotes/origin/master
