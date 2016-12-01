@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/windows,unrealengine
 
@@ -25,6 +26,9 @@ $RECYCLE.BIN/
 =======
 # Created by https://www.gitignore.io/api/unrealengine
 >>>>>>> refs/remotes/origin/master
+=======
+# Created by https://www.gitignore.io/api/unrealengine
+>>>>>>> 0c8ce982f203ccc4de249a77a42d374348f54082
 
 ### UnrealEngine ###
 # Visual Studio 2015 user specific files
@@ -92,7 +96,11 @@ Intermediate/*
 
 # Cache files for the editor to use
 <<<<<<< HEAD
+<<<<<<< HEAD
 DerivedDataCache/*
 =======
 DerivedDataCache/*
 >>>>>>> refs/remotes/origin/master
+=======
+DerivedDataCache/*
+>>>>>>> 0c8ce982f203ccc4de249a77a42d374348f54082
