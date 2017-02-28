@@ -1,12 +1,5 @@
-
-# Created by https://www.gitignore.io/api/unrealengine
-
-### UnrealEngine ###
 # Visual Studio 2015 user specific files
 .vs/
-
-# Visual Studio 2015 database file
-*.VC.db
 
 # Compiled Object files
 *.slo
@@ -44,6 +37,7 @@
 *.suo
 *.opensdf
 *.sdf
+*.VC.db
 *.VC.opendb
 
 # Precompiled Assets
